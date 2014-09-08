@@ -1,5 +1,7 @@
 # A Node.js GamersCoin Client!
 
+[![tip for next commit](http://game4commit.gamers-coin.org/projects/18.svg)](http://game4commit.gamers-coin.org/projects/18)
+
 ![GamersCoin](http://i.imgur.com/Am5SVaF.png)
 
 node-gamerscoin is a Gamerscoin client for Node.js. It is a fork of the excellent Kapitalize Bitcoin Client (now removed from GitHub) intended for use with Gamerscoin. The purpose of this repository is:
